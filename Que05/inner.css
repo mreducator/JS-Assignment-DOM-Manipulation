@@ -1,0 +1,17 @@
+#parent{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#text{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: 900;
+}
+#tiger-img{
+    visibility: visible;
+}
+#btn{
+    height:50px;
+}

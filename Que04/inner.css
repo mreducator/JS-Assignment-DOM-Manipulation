@@ -1,0 +1,42 @@
+#parent{
+    display:flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+#child{
+    border:1px solid black;
+    height:300px;
+    width:500px;
+    background-color: yellow;
+}
+#section{
+    display: flex;
+    flex-direction: column;
+
+}
+#main-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#heading{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 900;
+}
+#submit-button{
+    width:170px;
+    height:30px;
+    background-color: red;
+    color:greenyellow;
+}
+#user-alert{
+    color: red;
+}
+#password-alert{
+    color: red;
+}

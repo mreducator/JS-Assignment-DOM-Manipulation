@@ -1,0 +1,15 @@
+#parent{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#child{
+    display: flex;
+    justify-content: space-around;
+    width:200px
+}
+.digit{
+    font-size: 30px;
+    color:white;
+}
